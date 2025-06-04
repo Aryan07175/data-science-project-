@@ -1,4 +1,4 @@
-# data-science-project-
+Movie Rating Prediction Model
 📌 Project Overview
 This notebook demonstrates the application of clustering algorithms (e.g., KMeans, DBSCAN, or Hierarchical Clustering) on a dataset to uncover hidden patterns and groupings. It is part of Week 7 coursework for a data science or machine learning module.
 
