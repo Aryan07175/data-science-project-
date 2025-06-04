@@ -81,7 +81,7 @@ Ratings vs. Votes scatter plot.
 
 Heatmap showing correlations among features like Rating and Votes.
 
-If your notebook includes clustering or o
+
 
 
 
